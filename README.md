@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jeet Mondal and I'm a developer, coder , from  India</h2>
+<h2 align="left">Hi 👋! My name is Jeet Mondal and I'm a developer, coder, from India</h2>
 
 ###
 
@@ -47,6 +47,8 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+###
 ## 🛠️ Tech Stack
 ### 🔹 Programming & Core Concepts
 <p align="left">
@@ -70,6 +72,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
+
 ### 🏛️ Large Language Models (LLMs)
 <p align="left">
 <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
